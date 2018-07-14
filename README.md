@@ -22,9 +22,9 @@ Lecturer: Alan Blair
 
 1. **Assignment 1** : Logical Queries, Manipulation of Lists and Trees. Mark:12/12.
 2. **Assignment 2** : Prolog Tests of Path Search Methods (Efficiency and optimum), Heuristic Algorithm, Maze Search, Distance Calculation . Mark:10/10.
-3. **Assignment 3** : Prolog Project with using complex list Manipulation and logic. Mark:17.2/18.
+3. **Assignment 3** : Prolog Project with using complex list manipulation and logic. Mark:17.2/18.
 
 ### Disclaimer
 
 1. No responsibility will be taken if some mistakes influence your mark. It is better to check before referencing.
-2. No responsibility will be taken if copying codes results in detected plagiarism
+2. No responsibility will be taken if copying codes results in detected plagiarism.
