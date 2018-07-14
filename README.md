@@ -1,4 +1,4 @@
-# COMP9414-18S1
+# COMP9414 Artificial Intelligence 2018S1
 
 ### ALL CODES SHOULD BE APPROPRIATELY REFERENCED, COPYING MAY RESULT IN PLAGIARISM
 
@@ -22,7 +22,7 @@ Lecturer: Alan Blair
 
 1. **Assignment 1** : Logical Queries, Manipulation of Lists and Trees. Mark:12/12.
 2. **Assignment 2** : Prolog Tests of Path Search Methods (Efficiency and optimum), Heuristic Algorithm, Maze Search, Distance Calculation . Mark:10/10.
-3. **Assignment 3** : Prolog Project with using complex list Manipulation, logic. Mark:17.2/18.
+3. **Assignment 3** : Prolog Project with using complex list Manipulation and logic. Mark:17.2/18.
 
 ### Disclaimer
 
